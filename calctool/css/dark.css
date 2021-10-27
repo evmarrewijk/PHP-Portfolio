@@ -1,0 +1,15 @@
+.dark{
+    background-color: #181818;
+}
+
+.topnav.dark{
+    background-color: #202020;
+}
+
+.topnav.dark a{
+    color: white;
+}
+
+.topnav.dark a:hover{
+    background-color: #333333;
+}

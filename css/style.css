@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    padding-top: 56px;
+    background-color: #53145c; 
+}
+
+.jumbotron{
+    background-image: url(../img/7971.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.container{
+    padding: 100px;;
+}
+
+.navbar-brand{
+    margin-left: 40px;
+}
+
+.card{
+    margin-bottom: 12px;;
+}
+
+.div-contact{
+    background-color: rgb(82, 80, 80);
+    padding: 10px 16px;
+}
+
+i{
+    padding-right: 16px;
+}
+
+.about-img{
+    width: 45%;
+    margin-bottom: 50px;
+}
